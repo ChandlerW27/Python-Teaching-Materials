@@ -1,5 +1,7 @@
 # Python-Teaching-Materials
 
-### **Description**: 
-<br>
-Slides, examples, and exercises from beginner Python classes I taught over five semesters for  our community.
+### Description
+
+- Slides, examples, and exercises from beginner Python courses
+- 
+- Founded and led in our community over five semesters (2023–present)
